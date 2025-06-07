@@ -115,7 +115,6 @@ public class UpdateRoomStatus extends JFrame implements ActionListener {
         back.addActionListener(this);
 
         setVisible(true);
-        setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
     }
 
